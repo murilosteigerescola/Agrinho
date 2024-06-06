@@ -4,4 +4,6 @@ body{background-color: limegreen;}
     color: rgb(255, 238, 0);
 
 }
-.texto{font-size: 40px;}
+.texto{font-size: 40px;
+color: brown;
+text-align: center;}
