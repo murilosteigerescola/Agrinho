@@ -5,6 +5,6 @@ body{background-color: rgb(255, 238, 0);}
 
 }
 .texto{font-size: 40px;
-    font-family: fantasy;
+    margin: 10px;
 color: rgb(255, 153, 0);
 text-align: center;}
